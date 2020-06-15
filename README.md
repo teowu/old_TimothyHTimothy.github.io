@@ -1,17 +1,70 @@
-# TimothyHTimothy.github.io
+# Before my Homepage is constructed...*IT* is the homepage...
 
-Hello there!
+Hello there! 
 
-I'm Timothy Haoning Wu, a junior student from Peking University, now researching on image restoration and enhancement, computational photography, image and video quality assessments, and, of course, still finishing my undergraduate lectures.
+I'm Master Obi... **Timothy Haoning Wu, a junior college student from Peking University, now researching on image restoration and enhancement, computational photography, image and video quality assessments, and, of course, still finishing my undergraduate courses.
+
+
 
 ## Contact me
-My emails: [`Gmail`](realtimothyhwu@gmail.com)
-[`College Mail`](relbmag_eht@pku.edu.cn)
+
+### Contact me with Email
+
+My Personal Mail: (Sometimes not available in Mainland China)
+
+ [`Gmail:realtimothyhwu@gmail.com`](realtimothyhwu@gmail.com)
+
+
+
+My College Mail: (May misclassify *TRASH)* 
+
+  [`College Mail:relbmag_eht@pku.edu.cn`](relbmag_eht@pku.edu.cn)
+
+
+
+### Join me with my Repositories
+
+Just do it.
+
+
 
 ## Research Experiences
 
-Since Fall 2019, I have joined Visual Inference and Evaluation (VIE) group in Peking University, under the instruction of Asso. Professor Tingting Jiang, IEEE Fellow, conducting research on Deep Image Quality Assessment methods. Now, I am working on reconstructing images from many distortions: Degradation, Noising, Artifacts, and try to combine reconstructing methodology with Quality Assessment knowledges.
+Since Fall 2019, I have joined Visual Inference and Evaluation (VIE) group in Peking University, under the instruction of Asso. Professor Tingting Jiang, IEEE Fellow, conducting research on Deep Image Quality Assessment methods. Now, I am working on reconstructing images from many distortions: Degradation, Noising, Artifacts, and try to combine reconstructing methodology with QA knowledges.
 
-### Super TaskSuper Resolution
 
-In Spring 2020, I joined NTIRE 2020 Real-World Super Resolution challenge.
+
+
+
+### Research Project: Super Resolution (Nov 2019 - Now)
+
+Advisors: Tingting Jiang (PKU), Ming-Hsuan Yang (UC Merced).
+
+#### Start with RankSRGAN
+
+In Winter 2019, after surveying on IQA methods, I re-implemented and tried some on RankSRGAN algorithms, learning the full pipeline and potential novel breakthroughs on Super Resolution.
+
+- Introducing real human MOS rank pairs to replace the IQA-pseudo rank pairs.
+- Based on exactly same Backbone of IQA loss module and Discriminator module, proposed a mechanism combining both.
+
+This job did not create much quantitative result but explores the possibilities of Super Resolution.
+
+
+
+#### Dual Resolution Domain Matching (DRDM) on Unsupervised SISR
+
+In Feb. 2020, I joined NTIRE2020 Real-World Super Resolution challenge, proposed and achieved very good result on *IQA-rank* (**IQA Score 4.06, the second among over 20 teams**). With my personal strength and much courses this semester, I failed to eliminate the unknown noise patterns before the deadline of the competition and failed the evaluation of human rank.
+
+In May 2020, I added MixCorrupt module, removed the noise patterns and achieved **better generalization result**. You may refer to [`DRDM`](https://github.com/TimothyHTimothy/NADU-DMDR) to see my progress on this topic.
+
+
+
+#### AIM Real SR Track 1&2&3
+
+Now I'm participating in AIM2020 Real-World SR Track 1,2,3(x2,x3,x4) and achieved comparable results on modifying the existing State-of-the-Art networks, such as 
+
+I'm still working on becoming the State-of-the-Art.
+
+*May the force be with you. Always.*
+
+Here is my X3 result and I'm working on becoming the State-of-the-Art.
