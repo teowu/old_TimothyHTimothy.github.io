@@ -2,8 +2,15 @@
 
 Hello there! 
 
-I'm Master Obi... **Timothy Haoning Wu, a junior college student from Peking University, now researching on image restoration and enhancement, computational photography, image and video quality assessments, and, of course, still finishing my undergraduate courses.
+I'm Master Obi... **Timothy Haoning Wu**, a junior college student from Peking University, now researching on Computer Visions. My major concerns are **Image Restoration and Enhancement**, **Computational Photography**, **Image and Video Quality Assessments**. 
 
+I'm still finishing my undergraduate courses.
+
+## If you're interested...
+
+In Fall 2020 (this Fall), I will be applying for graduate on Computer Vision tasks to continue my exporations on the topics shown above. On the mean time, I will also be considering my careers and future developments and follow some practical projects on my favored topics.
+
+If you would like to know more about me, please see my [`Curriculum Vitae`](null).
 
 
 ## Contact me
@@ -66,5 +73,3 @@ Now I'm participating in AIM2020 Real-World SR Track 1,2,3(x2,x3,x4) and achieve
 I'm still working on becoming the State-of-the-Art.
 
 *May the force be with you. Always.*
-
-Here is my X3 result and I'm working on becoming the State-of-the-Art.
